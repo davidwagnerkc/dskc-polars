@@ -1,0 +1,16 @@
+polars
+numpy
+pandas
+pyarrow
+scipy
+jupyterlab
+jupyterlab-vim
+matplotlib
+plotly
+seaborn
+pytest
+tqdm
+black
+line_profiler
+click
+neovim
